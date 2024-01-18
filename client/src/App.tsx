@@ -4,8 +4,9 @@ import Task from "./Component/Task"
 const App : React.FC= () => {
   return (
     <div>
-      
-      < Task />
+
+
+      <Task/>
 
 
     </div>
